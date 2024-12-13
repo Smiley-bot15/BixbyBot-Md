@@ -3,11 +3,11 @@ import chalk from 'chalk'
 import fs from 'fs'
 import { fileURLToPath } from 'url'
 
-global.botnumber = ""
-global.confirmCode = ""
+global.botnumber = "+40 741 593 548"
+global.confirmCode = "123456"
 
-global.owner = [
-  ['xxxxxxxxxx', '𝐃𝚲𝐍𝕀𝚵𝐋͎💋', true],
+global.owner = [matei
+  ['+40 741 593 548', 'matei', true],
   ['xxxxxxxxxx',],
   ['xxxxxxxxxx'],	
   ['xxxxxxxxxx',],
@@ -17,7 +17,7 @@ global.owner = [
 
 //────────────────────────────
 
-global.mods = ['xxxxxxxxxx'] 
+global.mods = ['matei'] 
 global.prems = ['xxxxxxxxxx', 'xxxxxxxxxx']
 
 //────────────────────────────
